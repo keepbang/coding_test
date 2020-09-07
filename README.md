@@ -1,2 +1,3 @@
 # jeju_coding_test
-Created with CodeSandbox
+
+Javascript Coding Test Source
